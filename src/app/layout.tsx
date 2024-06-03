@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `YwNotie`,
+  description: `A little notie for ywi.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -57,7 +57,6 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
         <div className="min-h-screen">{children}</div>
-        <Footer />
       </body>
     </html>
   );
