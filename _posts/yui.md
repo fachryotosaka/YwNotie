@@ -1,13 +1,13 @@
 ---
 title: "Thank u 4' all the good things u shared with me."
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
+excerpt: "first and foremost, I want to express my deepest gratitude to you. Thank you for coming into my life, for bringing so much goodness and joy into it. Your presence has filled my days with happiness, and I am truly grateful to know you.."
+coverImage: "/assets/blog/yui/yui.jpeg"
 date: "2024-06-03T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/yui/yui.jpg"
 ---
 
 Suci Nur Insani, 
