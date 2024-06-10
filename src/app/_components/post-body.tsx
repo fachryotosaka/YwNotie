@@ -12,6 +12,5 @@ export function PostBody({ content }: Props) {
       dangerouslySetInnerHTML={{ __html: content }}
     />
   </div>
-    
   );
 }

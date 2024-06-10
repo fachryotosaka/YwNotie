@@ -20,7 +20,6 @@ export default async function Post({ params }: Params) {
 
   return (
     <main>
-      {/* <Header/> */}
       <br />
       <br />
       <br />

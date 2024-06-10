@@ -38,7 +38,7 @@ export function HeroPost({
           </div>
         </div>
         <div>
-          <p className="text-[18px] leading-relaxed mb-4 text-left">{excerpt}</p>
+          <p className="text-[17px] leading-relaxed mb-4 text-left">{excerpt}</p>
         </div>
         <br />
       </div>

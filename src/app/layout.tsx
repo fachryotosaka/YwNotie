@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `YwNotie`,
-  description: `A little notie for ywi.`,
+  description: `A little notie i made for special person ( Yui Hosinoo ).`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
